@@ -1,0 +1,2 @@
+https://apidocs.symantec.com/home/SymantecEDR_4.3
+https://apidocs.symantec.com/home/SAEP
